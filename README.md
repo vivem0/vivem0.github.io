@@ -1,3 +1,4 @@
 # vivem0
 Simple portfolio landing page
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFFFFF&background=192AFF&multiline=true&width=435&lines=Lots+of+code+stolen+from+everywhere;%3A);feel+free+to+steal+some+code+if+you+want" alt="Typing SVG" /></a>
+***
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&pause=100&color=FFFFFF&background=192AFF&multiline=true&width=420&height=70&lines=Lots+of+code+stolen+from+;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80everywhere+%3A);feel+free+to+steal+some%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
